@@ -107,6 +107,6 @@ https://github.com/user-attachments/assets/7aafe2a6-03fb-4cba-80e3-fece956c6a8e
 
 Many thanks to these excellent projects:
 
-- [ORORA]:https://github.com/url-kaist/outlier-robust-radar-odometry
+- [ORORA](https://github.com/url-kaist/outlier-robust-radar-odometry)
 
-- [SLAM in autonomous driving]:https://github.com/gaoxiang12/slam_in_autonomous_driving
+- [SLAM in autonomous driving](https://github.com/gaoxiang12/slam_in_autonomous_driving)
