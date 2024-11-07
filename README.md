@@ -91,7 +91,7 @@ roslaunch rino rino.launch
 
 ## Overview
 
-![overview](.\figure\overview.png)
+![overview](https://github.com/yangsc4063/rino/blob/main/figure/overview.png)
 
 ## Primary Results
 
