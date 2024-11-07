@@ -101,7 +101,7 @@ roslaunch rino rino.launch
     <img src=".\figure\result_kaist.png" alt="result_kaist" width="60%" />
 </div>
 
-**Result on <u>2021-11-28-09-18</u> of MulRan dataset:**
+**Result on <u>2021-11-28-09-18</u> of Boreas dataset:**
 
 https://github.com/user-attachments/assets/7aafe2a6-03fb-4cba-80e3-fece956c6a8e
 
