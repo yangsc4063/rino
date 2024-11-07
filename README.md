@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">RINO: Accurate, Robust Radar-Inertial Odometry \\ with Non-Iterative Estimation</h1>
+  <h1 align="center">RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation</h1>
 
   <p align="center">
     <strong>Shuocheng Yang</strong>
