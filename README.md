@@ -101,7 +101,7 @@ roslaunch rino rino.launch
 
 **Result on <u>2021-11-28-09-18</u> of MulRan dataset:**
 
-<video src="https://github.com/yangsc4063/rino/blob/main/figure/result_boreas.mp4" />
+https://github.com/user-attachments/assets/7aafe2a6-03fb-4cba-80e3-fece956c6a8e
 
 ## Acknowledgement
 
