@@ -97,7 +97,7 @@ roslaunch rino rino.launch
 
 **Result on <u>KAIST02</u> of MulRan dataset:**
 
-<img src=".\figure\result_kaist.png" alt="result_kaist" width="60%" />
+<center><img src=".\figure\result_kaist.png" alt="result_kaist" width="60%" /></center>
 
 **Result on <u>2021-11-28-09-18</u> of MulRan dataset:**
 
