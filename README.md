@@ -33,9 +33,8 @@ sudo apt-get install libboost-dev libboost-all-dev
 sudo apt-get install libpcl-dev
 ```
 
-- **Sophus**: Sophus is a C++ library for Lie groups and Lie algebra operations. You need to download and build it manually from the official website:
-
-  - Visit the official repository: https://github.com/strasdat/Sophus. Follow the installation instructions provided on the repository to compile and install Sophus.
+**Sophus**: a C++ library for Lie groups and Lie algebra operations. You need to download and build it manually from the official website:
+- Visit the official repository: https://github.com/strasdat/Sophus. Follow the installation instructions provided on the repository to compile and install Sophus.
 
 #### 2.Build RINO
 
