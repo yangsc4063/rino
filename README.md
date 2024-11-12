@@ -25,35 +25,13 @@ Precise localization and mapping are critical for achieving autonomous navigatio
 
 This project is developed based on ROS Noetic and is recommended to be compiled on Ubuntu 20.04. Please follow the steps below to install the necessary dependencies:
 
-- **OpenMP**: 
-
-  ```bash
-  sudo apt-get install libomp-dev
-  ```
-
-- **OpenCV**:
-
-  ```bash
-  sudo apt-get install libopencv-dev
-  ```
-
-- **Eigen3**: Eigen3 is a C++ template library for linear algebra operations.
-
-  ```bash
-  sudo apt-get install libeigen3-dev
-  ```
-
-- **Boost**: Boost is a collection of C++ libraries that provide a wide range of functionality, including system operations and file system operations.
-
-  ```bash
-  sudo apt-get install libboost-dev libboost-all-dev
-  ```
-
-- **PCL (Point Cloud Library)**: PCL is an open-source library for point cloud processing. It should already be installed when you set up ROS. If not:
-
-  ```bash
-  sudo apt-get install libpcl-dev
-  ```
+```bash
+sudo apt-get install libomp-dev
+sudo apt-get install libopencv-dev
+sudo apt-get install libeigen3-dev
+sudo apt-get install libboost-dev libboost-all-dev
+sudo apt-get install libpcl-dev
+```
 
 - **Sophus**: Sophus is a C++ library for Lie groups and Lie algebra operations. You need to download and build it manually from the official website:
 
