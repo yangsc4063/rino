@@ -17,6 +17,10 @@
 
 Precise localization and mapping are critical for achieving autonomous navigation in self-driving vehicles. However, ego-motion estimation still faces significant challenges, particularly when GNSS failures occur or under extreme weather conditions (e.g., fog, rain, and snow). In recent years, scanning radar has emerged as an effective solution due to its strong penetration capabilities. Nevertheless, scanning radar data inherently contains high levels of noise, necessitating hundreds to thousands of iterations of optimization to estimate a reliable transformation from the noisy data. Such iterative solving is time-consuming, unstable, and prone to failure. To address these challenges, we propose an accurate and robust Radar-Inertial Odometry system, RINO, which employs a non-iterative solving approach. Our method decouples rotation and translation estimation and applies an adaptive voting scheme for 2D rotation estimation, enhancing efficiency while ensuring consistent solving time. Additionally, the approach implements a loosely coupled system between the scanning radar and an inertial measurement unit (IMU), leveraging Error-State Kalman Filtering (ESKF). Notably, we successfully estimated the uncertainty of the pose estimation from the scanning radar, incorporating this into the filter's Maximum A Posteriori estimation, a consideration that has been previously overlooked. Validation on publicly available datasets demonstrates that RINO outperforms state-of-the-art methods and baselines in both accuracy and robustness.
 
+## Overview
+
+![overview](https://github.com/yangsc4063/rino/blob/main/figure/overview.png)
+
 ## Getting Start
 
 ### Step-by-step installation instructions
@@ -63,10 +67,6 @@ cd ~/catkin_ws
 source devel/setup.bash
 roslaunch rino rino.launch
 ```
-
-## Overview
-
-![overview](https://github.com/yangsc4063/rino/blob/main/figure/overview.png)
 
 ## Primary Results
 
