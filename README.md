@@ -6,9 +6,9 @@
     ·
     <strong>Yueming Cao</strong>
     ·
-    <strong>Shengbo Li</strong>
+    <strong>Shengbo Eben Li</strong>
     .
-    <strong>jianQiang Wang</strong>
+    <strong>jianQiang Wang*</strong>
     .
     <strong>Shaobing Xu*</strong>
 </p>
