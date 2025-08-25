@@ -15,7 +15,7 @@
 
 ## News
 
-- **[2023/2/28]** 🚀RINO is accepted to T-ASE 2025!
+- **[2025/8/18]** 🚀RINO is accepted to T-ASE 2025!
 - **[2024/11/12]** Paper released on [arXiv](https://arxiv.org/abs/2411.07699).
 
 ## Abstract
@@ -92,4 +92,5 @@ Many thanks to these excellent projects:
 - [ORORA](https://github.com/url-kaist/outlier-robust-radar-odometry)
 
 - [SLAM in autonomous driving](https://github.com/gaoxiang12/slam_in_autonomous_driving)
+
 
