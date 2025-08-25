@@ -13,6 +13,11 @@
     <strong>Shaobing Xu*</strong>
 </p>
 
+## News
+
+- **[2023/2/28]** 🚀RINO is accepted to T-ASE 2025!
+- **[2024/11/12]** Paper released on [arXiv](https://arxiv.org/abs/2411.07699).
+
 ## Abstract
 
 Odometry in adverse weather conditions, such as fog, rain, and snow, presents significant challenges, as traditional vision- and LiDAR-based methods often suffer from degraded performance. Radar-Inertial Odometry (RIO) has emerged as a promising solution due to its resilience in such environments. In this paper, we present RINO, a non-iterative RIO framework implemented in an adaptively loosely coupled manner. Building upon ORORA as the baseline for radar odometry, RINO introduces several key advancements, including improvements in keypoint extraction, motion distortion compensation, and pose estimation via an adaptive voting mechanism. This voting strategy facilitates efficient polynomial-time optimization while simultaneously quantifying the uncertainty in the radar module’s pose estimation. The estimated uncertainty is subsequently integrated into the maximum a posteriori (MAP) estimation within a Kalman filter framework. Unlike prior loosely coupled odometry systems, RINO not only retains the global and robust registration capabilities of the radar component but also dynamically accounts for the real-time operational state of each sensor during fusion. Experimental results conducted on publicly available datasets demonstrate that RINO reduces translation and rotation errors by 1.06% and 0.09°/100m, respectively, when compared to the baseline method, thus significantly enhancing its accuracy. Furthermore, RINO achieves performance comparable to state-of-the-art methods.
@@ -87,3 +92,4 @@ Many thanks to these excellent projects:
 - [ORORA](https://github.com/url-kaist/outlier-robust-radar-odometry)
 
 - [SLAM in autonomous driving](https://github.com/gaoxiang12/slam_in_autonomous_driving)
+
