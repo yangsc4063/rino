@@ -8,7 +8,7 @@
     ·
     <strong>Shengbo Eben Li</strong>
     .
-    <strong>jianQiang Wang*</strong>
+    <strong>JianQiang Wang*</strong>
     .
     <strong>Shaobing Xu*</strong>
 </p>
@@ -92,5 +92,6 @@ Many thanks to these excellent projects:
 - [ORORA](https://github.com/url-kaist/outlier-robust-radar-odometry)
 
 - [SLAM in autonomous driving](https://github.com/gaoxiang12/slam_in_autonomous_driving)
+
 
 
